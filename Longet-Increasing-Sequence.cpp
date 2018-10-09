@@ -5,6 +5,7 @@
 //  Created by tiger on 2018/9/22.
 //  Copyright © 2018年 tiger. All rights reserved.
 //
+// http://bailian.openjudge.cn/practice/2757/
 
 #include <iostream>
 #include <cstdio>
